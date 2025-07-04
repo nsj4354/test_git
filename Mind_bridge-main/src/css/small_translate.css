@@ -1,0 +1,7 @@
+/* ✅ 4. 번역 위젯 */
+.translate {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 2000;
+}
